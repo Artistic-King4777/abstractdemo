@@ -1,6 +1,6 @@
 package abstractdemo;
 
-public class Avian extends Animal {
+public abstract class Avian extends Animal {
 
     public Avian(String name) {
         super(name);
